@@ -1,0 +1,32 @@
+_repo: The-2010-CIA-World-Factbook_35830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Central Intelligence Agency
+    aliases:
+    - Agency, United States. Central Intelligence
+    - Central Intelligence Agency (U.S.)
+    - CIA (Central Intelligence Agency (U.S.))
+    gutenberg_agent_id: '8'
+    url: http://www.gutenberg.org/2009/agents/8
+description: ''
+gutenberg_bookshelf: CIA World Factbooks
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Handbooks, manuals, etc.'
+- !lcsh 'Political statistics -- Handbooks, manuals, etc.'
+- !lcsh 'World politics -- Handbooks, manuals, etc.'
+- !lcsh 'Geography -- Handbooks, manuals, etc.'
+- !lcc 'G'
+title: The 2010 CIA World Factbook
+url: http://www.gutenberg.org/ebooks/35830
