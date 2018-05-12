@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '8'
     url: http://www.gutenberg.org/2009/agents/8
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35830#The-2010-CIA-World-Factbook
 gutenberg_bookshelf: CIA World Factbooks
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
